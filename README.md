@@ -11,4 +11,7 @@
 ![노트앱 1](https://github.com/zeromin41/js_projects/assets/130297212/d31e85ea-1ca9-4f9f-bbfc-ce88ad9cd965)
 ![노트앱 2](https://github.com/zeromin41/js_projects/assets/130297212/64c61c6f-9fa5-44f5-a8b0-b71321ca3f49)
 ![노트앱 3](https://github.com/zeromin41/js_projects/assets/130297212/1cd4d317-027d-4ced-a5e8-6aa3ba908e5a)
-
+# Todo 앱
+![image](https://github.com/zeromin41/js_projects/assets/130297212/3eb90e7f-37b4-46bd-b9e2-0a8411b7ffe7)
+![image](https://github.com/zeromin41/js_projects/assets/130297212/bd04394a-f2d1-46c5-a3ca-41668de92693)
+![image](https://github.com/zeromin41/js_projects/assets/130297212/64895a5a-bbfb-4176-a2cb-3ec0d88ed81f)
