@@ -15,3 +15,8 @@
 ![image](https://github.com/zeromin41/js_projects/assets/130297212/3eb90e7f-37b4-46bd-b9e2-0a8411b7ffe7)
 ![image](https://github.com/zeromin41/js_projects/assets/130297212/bd04394a-f2d1-46c5-a3ca-41668de92693)
 ![image](https://github.com/zeromin41/js_projects/assets/130297212/64895a5a-bbfb-4176-a2cb-3ec0d88ed81f)
+# Movie 앱
+![image](https://github.com/zeromin41/js_projects/assets/130297212/bd8518b9-7073-4b69-8863-5186b3fde161)
+![image](https://github.com/zeromin41/js_projects/assets/130297212/56430f9f-bebd-4044-bb28-961de398bc2e)
+![image](https://github.com/zeromin41/js_projects/assets/130297212/51c14b22-8f9d-46ab-95a8-6a0e251820e4)
+
