@@ -19,4 +19,6 @@
 ![image](https://github.com/zeromin41/js_projects/assets/130297212/bd8518b9-7073-4b69-8863-5186b3fde161)
 ![image](https://github.com/zeromin41/js_projects/assets/130297212/56430f9f-bebd-4044-bb28-961de398bc2e)
 ![image](https://github.com/zeromin41/js_projects/assets/130297212/51c14b22-8f9d-46ab-95a8-6a0e251820e4)
+# Github Profile 앱
+![image](https://github.com/zeromin41/js_projects/assets/130297212/6168c308-adb4-4486-b098-a0d0c7a9e780)
 
