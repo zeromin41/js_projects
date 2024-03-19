@@ -4,8 +4,8 @@ const main = document.getElementById("main");
 const form = document.getElementById("form");
 const search = document.getElementById("search");
 
-async function getUser(username) {
-    const resp = await fetch(APIURL + username);
+async function getUser(username) {  //getUSer()가 호출될때 함수로 전달되는 값을 받는 변수가 username
+    const resp = await fetch(APIURL + username);    //fetch가 끝나면 이후 코드 진행
     const respData = await resp.json();
 
     createUserCard(respData);
@@ -68,7 +68,7 @@ form.addEventListener("submit", (e) => {
     const user = search.value;
 
     if (user) {
-        getUser(user);
+        getUser(user);  // 호출될때 전달된 user가 위 함수 선언부에서 username으로 받아짐
 
         search.value = "";
     }
