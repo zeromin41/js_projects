@@ -20,5 +20,10 @@
 ![image](https://github.com/zeromin41/js_projects/assets/130297212/56430f9f-bebd-4044-bb28-961de398bc2e)
 ![image](https://github.com/zeromin41/js_projects/assets/130297212/51c14b22-8f9d-46ab-95a8-6a0e251820e4)
 # Github Profile 앱
-![image](https://github.com/zeromin41/js_projects/assets/130297212/6168c308-adb4-4486-b098-a0d0c7a9e780)
+![image](https://github.com/zeromin41/js_projects/assets/130297212/6168c308-adb4-4486-b098-a0d0c7a9e780
+# Drawing 앱
+![image](https://github.com/zeromin41/js_projects/assets/130297212/df3e3637-fdf0-4b2a-81a8-b1e21950c189)
+![image](https://github.com/zeromin41/js_projects/assets/130297212/1dfe11c1-bef4-4100-aa2b-7983ae922b29)
+
+
 
