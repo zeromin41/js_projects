@@ -27,10 +27,14 @@
 ![image](https://github.com/zeromin41/js_projects/assets/130297212/df3e3637-fdf0-4b2a-81a8-b1e21950c189)
 ![image](https://github.com/zeromin41/js_projects/assets/130297212/1dfe11c1-bef4-4100-aa2b-7983ae922b29)
 
+
 # Password generate 앱
 ![image](https://github.com/zeromin41/js_projects/assets/130297212/ba258fcd-1eed-407e-b21c-f60f7315dfbb)
 ![image](https://github.com/zeromin41/js_projects/assets/130297212/37bf8d92-f716-4067-95bb-602574383ef5)
 ![image](https://github.com/zeromin41/js_projects/assets/130297212/9eb29b3f-a11b-4dc9-a85d-623962ba258d)
 
-
+# Weather 앱
+![image](https://github.com/zeromin41/js_projects/assets/130297212/05d6a87f-65dd-46fb-8855-ae6fc14623b5)
+![image](https://github.com/zeromin41/js_projects/assets/130297212/b3039649-a70d-4ccd-b860-97605eeda4bf)
+![image](https://github.com/zeromin41/js_projects/assets/130297212/0d3c77c8-9306-4522-88f1-ac9b1d27d8a7)
 
