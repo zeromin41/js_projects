@@ -38,3 +38,7 @@
 ![image](https://github.com/zeromin41/js_projects/assets/130297212/b3039649-a70d-4ccd-b860-97605eeda4bf)
 ![image](https://github.com/zeromin41/js_projects/assets/130297212/0d3c77c8-9306-4522-88f1-ac9b1d27d8a7)
 
+# 주사위 굴리기
+![image](https://github.com/user-attachments/assets/3f911352-d14c-46b6-a368-df7c838b816c)
+
+
