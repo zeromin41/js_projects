@@ -41,4 +41,6 @@
 # 주사위 굴리기
 ![image](https://github.com/user-attachments/assets/3f911352-d14c-46b6-a368-df7c838b816c)
 
+# 칵테일 레시피 앱
+![image](https://github.com/user-attachments/assets/5448c0bd-e446-4521-a8d1-31ad4a00226a)
 
