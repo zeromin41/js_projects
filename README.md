@@ -44,3 +44,7 @@
 # 칵테일 레시피 앱
 ![image](https://github.com/user-attachments/assets/5448c0bd-e446-4521-a8d1-31ad4a00226a)
 
+# 알람 앱
+![image](https://github.com/user-attachments/assets/fd090828-b17c-4f6d-8f62-405f78e04e4b)
+
+
